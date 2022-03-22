@@ -33,12 +33,12 @@ ul{
 }
 
 a{
-    color:green;
+    color: whitesmoke;
 }
 
 html {  
     background-image: url("Background2.png");  
     background-repeat: no-repeat;  
-    /* background-position: 0% 0%; */
+    background-position: 0% 0%;
     background-size: 100% 250%;
-  }
+    }
