@@ -21,8 +21,17 @@ div{
 }
 
 body{
-    background-image:url('primaryBackground.jpg');
-    background-size: auto;
+    background-image:url('Background2.png');
+    /* background-size: auto; */
     background-repeat: no-repeat;
     background-position: center;
+    
+}
+
+ul{
+    color:white;
+}
+
+a{
+    color:white;
 }
