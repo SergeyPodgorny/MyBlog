@@ -22,6 +22,7 @@ div{
 
 body{
     background-image:url('primaryBackground.jpg');
+    background-size: auto;
     background-repeat: no-repeat;
-    background-size: 1000px 100px;
+    background-position: center;
 }
