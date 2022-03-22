@@ -1,3 +1,27 @@
 h1{
-    color: blueviolet;
+    color: whitesmoke;
+}
+
+h3{
+    color:whitesmoke;
+}
+
+
+p{
+    color:aqua;
+}
+
+br{
+    color:white;
+}
+
+
+div{
+    color:white;
+}
+
+body{
+    background-image:url('primaryBackground.jpg');
+    background-repeat: no-repeat;
+    background-size: 1000px 100px;
 }
