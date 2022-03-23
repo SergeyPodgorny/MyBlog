@@ -14,11 +14,13 @@ p{
 br{
     color:white;
     position: relative;
+    
 }
 
 
 div{
     color:white;
+    text-align: justify;
 }
 
 ul{
