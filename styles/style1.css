@@ -21,14 +21,6 @@ div{
     color:white;
 }
 
-/* body{
-    background-image:url('Background2.png');
-    /* background-size: auto; */
-    /* background-repeat: no-repeat;
-    background-position: center;
-    
-} */ */
-
 ul{
     color:#050810;
 }
@@ -40,7 +32,7 @@ a{
 html {  
     /* background-color: #050810; */
     
-    background-image: url("Background2.png");  
+    background-image: url("Background.png");  
     background-repeat: no-repeat;  
     background-position: 0% 0%;
     background-size: cover;
