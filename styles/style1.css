@@ -6,6 +6,10 @@ h3{
     color:whitesmoke;
 }
 
+h2{
+    color:whitesmoke;
+}
+
 
 p{
     color:white;
@@ -17,15 +21,23 @@ br{
     
 }
 
+ul{
+    list-style: none;
+    text-align: justify;
+}
+
+
+li{
+    color: white;
+    text-align: justify;
+}
 
 div{
     color:white;
     text-align: justify;
 }
 
-ul{
-    list-style: none;
-}
+
 
 a{
     color: whitesmoke;
