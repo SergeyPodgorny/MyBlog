@@ -13,6 +13,7 @@ p{
 
 br{
     color:white;
+    position: relative;
 }
 
 
@@ -29,7 +30,7 @@ div{
 } */ */
 
 ul{
-    color:white;
+    color:#050810;
 }
 
 a{
@@ -37,8 +38,10 @@ a{
 }
 
 html {  
+    /* background-color: #050810; */
+    
     background-image: url("Background2.png");  
     background-repeat: no-repeat;  
     background-position: 0% 0%;
-    background-size: 100% 250%;
+    background-size: cover;
     }
