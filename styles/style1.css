@@ -22,7 +22,7 @@ div{
 }
 
 ul{
-    color:#050810;
+    list-style: none;
 }
 
 a{
@@ -30,10 +30,7 @@ a{
 }
 
 html {  
-    /* background-color: #050810; */
+    background-color: #050810;
     
-    background-image: url("Background.png");  
-    background-repeat: no-repeat;  
-    background-position: 0% 0%;
-    background-size: cover;
+
     }
